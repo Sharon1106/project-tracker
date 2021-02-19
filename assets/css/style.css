@@ -1,0 +1,37 @@
+.jumbotron-fluid {
+
+background-color: deeppink;
+
+
+
+}
+
+.display-4 {
+
+    text-align: center;
+}
+
+.lead {
+
+    text-align: center;
+
+
+}
+
+.navbar-brand {
+   
+    background-color: deeppink;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    background-color: deeppink;
+
+
+}
+
+.class{
+
+    color: fuchsia;
+}
